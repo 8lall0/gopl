@@ -5,3 +5,4 @@
 * 2.3: wait until chapter 11.4 for benchmarking
 * 2.4: wait until chapter 11.4
 * 2.5: wait until chapter 11.4
+* 3.2: right now i don't have the time to figure out what is an eggbox, math-speaking

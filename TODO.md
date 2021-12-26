@@ -7,3 +7,4 @@
 * 2.5: wait until chapter 11.4
 * 3.2: right now i don't have the time to figure out what is an eggbox, math-speaking
 * 3.3: ok, i have to study stuff
+* 3.6: search how to calculate the avg of 4 colors

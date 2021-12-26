@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"gopl/ch2/examples/tempconv/tempconv"
+	"gopl/ch2/examples/fc/tempconv"
 	"os"
 	"strconv"
 )
